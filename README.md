@@ -167,7 +167,7 @@ Streamlit_demo/
 1. Open a terminal in this folder.
 2. Run the following command:
 ```bash
-    streamlit run app.py
+    streamlit run main.py
 ```
 
 3. Your browser will open with the app. If not, copy the link from the terminal and open it manually.
