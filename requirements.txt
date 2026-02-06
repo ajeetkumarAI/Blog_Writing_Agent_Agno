@@ -1,0 +1,4 @@
+agno
+streamlit
+groq
+python-dotenv
