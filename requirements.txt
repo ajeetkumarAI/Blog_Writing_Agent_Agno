@@ -2,3 +2,4 @@ agno
 streamlit
 groq
 python-dotenv
+tavily-python
