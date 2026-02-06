@@ -1,5 +1,5 @@
+tavily-python
 agno
-streamlit
 groq
 python-dotenv
-tavily-python
+streamlit
